@@ -1,0 +1,11 @@
+
+
+Financial Analysis
+----------------------------------------
+
+Total Months: 86
+Total Profit/Loss: $22,564,198.00
+Number of unique months: 12
+Average Change in Profit/Loss: $-8,311.11
+Greatest Increase in Profits: Aug-16 ($1,862,002.00)
+Greatest Decrease in Profits: Feb-14 ($-1,825,558.00)
